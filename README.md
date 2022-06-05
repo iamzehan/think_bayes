@@ -1,4 +1,4 @@
-Think Stats 
+## Think Stats 
 ___
 A personal endeavor towards statistics.
 
