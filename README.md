@@ -7,7 +7,8 @@ This repository contains the study materials and experimental aspects of the boo
 ___
 
 ## Chapter 1: Probability
-Covers the basics of Probability with conjunctions, conditionals & laws of probability. The reader is taken through the Chapter with an Example Titled: 'Linda the Banker' involving the famous experiment by Tversky and Kahneman. The chapter takes on a dataset and examines various data on a probabilistic basis.
+Covers the basics of Probability with conjunctions, conditionals & laws of probability. The reader is taken through the Chapter with an Example Titled: 'Linda the Banker' involving the famous experiment by Tversky and Kahneman. The chapter takes on a single dataset and examines different aspects of it under different probabilistic theories.
+___
 
 <i> P.S. The demonstrations here are for documentation & educational purposes only. The owner does not intend to infringe any copyrights.</i>
 
