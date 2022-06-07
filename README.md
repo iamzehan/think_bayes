@@ -21,7 +21,7 @@ Three main problems are used as examples to devise the further explanation of **
 2. Dice Problem: Using **Bayes Tables** and **Diachronic Bayes**
 3. Monty Hall Problem: Using **Bayes Tables** and **Diachronic Bayes**
 
-**Keywords:** *prior,likelihood,posterior, total probability, normazlization.*
+**Keywords:** *prior, likelihood, posterior, total probability, normazlization.*
 ___
 <i> P.S. The demonstrations here are for documentation & educational purposes only. The owner does not intend to infringe any copyrights.</i>
 
