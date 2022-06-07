@@ -1,6 +1,8 @@
 ## Think Stats 
 ___
-A personal endeavor towards statistics.
+A personal endeavor towards statistics. 
+
+``It is advised to also use 'pen and paper' to keep track of the equations or some of them might make your head hurt.``
 
 This repository contains the study materials and experimental aspects of the book Titled: _**'Think Bayes - Bayesian Statistics in Python (2nd Edition)'**_, written by Allen B. Downey & published by [O'REILLY Media](https://www.oreilly.com/)
 
