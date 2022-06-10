@@ -26,7 +26,7 @@ ___
 
 ## Chapter 3: Distributions
 A python library called `empiricaldist` is entensively used throughout the chapter. 
-**Probability Mass Function** which is a class of the library mentioned comes as named `Pmf`. Which basically gives us distributions based on the data as opposed to theoretical distributions that we devised in earlier Examples. Also several problems from Chapter 2 e.g. are also revisited using this distribution and it goes on show how theoretical inference differentiate with everchanging data.
+[**Probability Mass Function**](https://en.wikipedia.org/wiki/Probability_mass_function) which is a class of the library mentioned comes as named `Pmf`. Which basically gives us distributions based on the data as opposed to theoretical distributions that we devised in earlier Examples. Also several problems from Chapter 2 e.g. are also revisited using this distribution and it goes on show how theoretical inference differentiate with everchanging data.
 
 <i> P.S. The demonstrations here are for documentation & educational purposes only. The owner does not intend to infringe any copyrights.</i>
 
