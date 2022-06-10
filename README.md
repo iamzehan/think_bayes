@@ -1,6 +1,6 @@
 ## Think Stats 
 ___
-A personal endeavor towards statistics. 
+A personal endeavor towards Bayesian Statistics. 
 
 ``It is advised to also use 'pen and paper' to keep track of the equations or some of them might make your head hurt.``
 
