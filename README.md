@@ -1,4 +1,4 @@
-## Think Stats 
+## Bayesian Statistics in Python
 ___
 A personal endeavor towards Bayesian Statistics. 
 
