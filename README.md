@@ -25,7 +25,7 @@ Three main problems are used as examples to devise the further explanation of **
 ___
 
 ## Chapter 3: Distributions
-A python library called `empiricaldist` and it's extended class [**Probability Mass Function**](https://en.wikipedia.org/wiki/Probability_mass_function) which comes as named `Pmf`. Empirical distribution basically gives us distributions based on the data as opposed to theoretical distributions that we devised in examples the earlier chapters. Also several problems from Chapter 2 e.g. The Cookie Problem, Dice Problem etc. are also revisited using this distribution and it goes on show how theoretical inference differentiate with everchanging data.
+A python library called `empiricaldist` and it's extended class [**Probability Mass Function**](https://en.wikipedia.org/wiki/Probability_mass_function) which comes as named `Pmf` is extensively used in this chapter. Empirical distribution basically gives us distributions based on the data as opposed to theoretical distributions that we devised in examples the earlier chapters. Also several problems from Chapter 2 e.g. The Cookie Problem, Dice Problem etc. are also revisited using this distribution and it goes on show how theoretical inference differentiate and is intrecately connected to the everchanging data.
 ___
 
 <i> P.S. The demonstrations here are for documentation & educational purposes only. The owner does not intend to infringe any copyrights.</i>
