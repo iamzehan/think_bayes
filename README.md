@@ -25,7 +25,9 @@ Three main problems are used as examples to devise the further explanation of **
 ___
 
 ## Chapter 3: Distributions
-A python library called `empiricaldist` and it's extended class [**Probability Mass Function**](https://en.wikipedia.org/wiki/Probability_mass_function) which comes as named `Pmf` is extensively used in this chapter. Empirical distribution gives us distributions based on the data as opposed to theoretical distributions that we devised in examples from the earlier chapters. Several problems from [Chapter 2](https://github.com/iamzehan/think_bayes/blob/main/README.md#chapter-2-bayes-theorem) e.g. The Cookie Problem, Dice Problem etc. are also revisited using this distribution and it goes on show how theoretical inference differentiate and is intrecately connected to the everchanging data.
+A python library called `empiricaldist` and it's extended class [**Probability Mass Function**](https://en.wikipedia.org/wiki/Probability_mass_function) which comes as named `Pmf` is extensively used in this chapter. Empirical distribution gives us distributions based on the data as opposed to theoretical distributions that we devised in examples from the earlier chapters. Several problems from [Chapter 2](https://github.com/iamzehan/think_bayes/blob/main/README.md#chapter-2-bayes-theorem) e.g. The Cookie Problem, Dice Problem etc. are also revisited using this distribution and it goes on show how theoretical inference differentiate and is intrecately connected to the everchanging data. A variant of the **Cookie Problem** named **Bowl 101** introduces initialization of prior hypotheses across 100 instances and then updating the posterior probability as the cookies are drawn based on the outcome(s).
+
+**Keywords:** _Empirical Distributions, Normal Distribution, Uniform Distribution, Probabilty Mass Function._
 ___
 
 <i> P.S. The demonstrations here are for documentation & educational purposes only. The owner does not intend to infringe any copyrights.</i>
