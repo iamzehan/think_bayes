@@ -37,7 +37,7 @@ The reader is posed with a problem titled: _The Euro Problem_ and the problem is
 * Triangle Prior and 
 * The Binormial Likelihood Function
 
-The `binom` class is used from the `scipy.stats` library for binomial distribution. However, this Chapter doesn't entirely answer the _Euro Problem_ but it intends to introduce Binomial Distribution and two types of priors and states the similiarities between the outcomes despite the differences.
+The `binom` class is used from the `scipy.stats` library for binomial distribution. However, this [Chapter](https://github.com/iamzehan/think_bayes/tree/main/Chapter%204) doesn't entirely answer the _Euro Problem_ but it intends to introduce Binomial Distribution and two types of priors and states the similiarities between the outcomes despite the differences.
 **Keywords:** _Binomial Distribution, Triangle Prior, Proportion.
 ___
 <i> P.S. The demonstrations here are for documentation & educational purposes only. The owner does not intend to infringe any copyrights.</i>
