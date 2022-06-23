@@ -36,7 +36,9 @@ The reader is posed with a problem titled: _The Euro Problem_ and the problem is
 * Bayesian Estimation, 
 * Triangle Prior and 
 * The Binormial Likelihood Function
-**Keywords:** _Binomial Equations, Binomial Distributions_
+The `binom` class is used from the `scipy.stats` library for binomial distribution. However, this [Chapter](https://github.com/iamzehan/think_bayes/tree/main/Chapter%204) doesn't entirely answer the _Euro Problem_ but it intends to introduce Binomial Distribution and two types of priors and states the similiarities between the outcomes despite the differences.
+**Keywords:** _Binomial Distribution, Triangle Prior, Proportions._
+
 ## Chapter 5: Estimating Counts
 In this chapter reader is posed with a problem titled: _The Train Problem_ . This chapter answers following questions:
 * What do we do when we have limited infromation but infinite possibilities?
@@ -45,8 +47,7 @@ In this chapter reader is posed with a problem titled: _The Train Problem_ . Thi
 All of these questions are answered in this chapter with the problem stated above.
 
 **Keywords:** _MMSE(Minimum Means Squared Error), Power Law Prior, Informative Prior, Uninformative Prior._
-The `binom` class is used from the `scipy.stats` library for binomial distribution. However, this [Chapter](https://github.com/iamzehan/think_bayes/tree/main/Chapter%204) doesn't entirely answer the _Euro Problem_ but it intends to introduce Binomial Distribution and two types of priors and states the similiarities between the outcomes despite the differences.
-**Keywords:** _Binomial Distribution, Triangle Prior, Proportion._
+
 ___
 <i> P.S. The demonstrations here are for documentation & educational purposes from a Reader's Perspective only. </i>
 
