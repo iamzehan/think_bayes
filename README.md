@@ -46,7 +46,7 @@ In this chapter reader is posed with a problem titled: _The Train Problem_ . Thi
 * How does one choose prior probabilities based on the limited number of data?
 * How does one count highest probable number in a situation where there chances of finding out real count is scant?
 
-All of these questions are answered in this chapter with the problem stated above.
+All of these questions are answered in this chapter with the problem stated above. Also _The German Tank Problem_ is referred to alongside the aforementioned. 
 
 **Keywords:** _MMSE(Minimum Means Squared Error), Power Law Prior, Informative Prior, Uninformative Prior._
 
