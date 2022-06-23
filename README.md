@@ -44,7 +44,8 @@ ___
 In this chapter reader is posed with a problem titled: _The Train Problem_ . This chapter answers following questions:
 * What do we do when we have limited infromation but infinite possibilities?
 * How does one choose prior probabilities based on the limited number of data?
-* How does one count highest probable number in a situation where there chances of finding out real counts is scant?
+* How does one count highest probable number in a situation where there chances of finding out real count is scant?
+
 All of these questions are answered in this chapter with the problem stated above.
 
 **Keywords:** _MMSE(Minimum Means Squared Error), Power Law Prior, Informative Prior, Uninformative Prior._
