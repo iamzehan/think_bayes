@@ -2,7 +2,7 @@
 ___
 A personal endeavor towards Bayesian Statistics. 
 
-``It is advised to also use 'pen and paper' to keep track of the equations or some of them might make your head hurt.``
+⚠ If your are new to this kind of Statistics: ``It is advised to also use 'pen and paper' to keep track of the equations or some of them might make your head hurt.``
 
 This repository contains the study materials, personal remarks and experimental aspects of the book Titled: _**['Think Bayes - Bayesian Statistics in Python (2nd Edition)](https://allendowney.github.io/ThinkBayes2/index.html)'**_, written by Allen B. Downey.
 ___
