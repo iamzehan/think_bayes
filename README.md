@@ -58,5 +58,9 @@ In this chapter there are two topics:
 
 **Keywords:** _odds, likelihood ratio, addends_
 ___
+<p align='center'>
+<img src='https://apps.streamlitusercontent.com/iamzehan/my_booktracker/main/Book_Tracker.py/+/media/138f15a51bb9663fa77cb58c844c54588adb1ee26b06e55cbea52064.png'>
+</p>
 <i> P.S. The demonstrations here are for documentation & educational purposes from a Reader's Perspective only. </i>
+
 
