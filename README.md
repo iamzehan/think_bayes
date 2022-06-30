@@ -50,6 +50,12 @@ All of these questions are answered in this chapter with the problem stated abov
 
 **Keywords:** _MMSE(Minimum Means Squared Error), Power Law Prior, Informative Prior, Uninformative Prior._
 
+## Chapter 6: Odds and Addends
+
+In this chapter there are two topics:
+**Odds:** Introduces the Bayes's Rule and likelihood ratio, A Crime Problem titled- "Oliver's Blood" is solved.
+**Addends:** In this part we see how to add several distributions and Central Limit Theorem with example is introduced. One more problem Titled _Gluten Sensitivity_ is solved.
+**Keywords:** _odds, likelihood ratio, addends_
 ___
 <i> P.S. The demonstrations here are for documentation & educational purposes from a Reader's Perspective only. </i>
 
