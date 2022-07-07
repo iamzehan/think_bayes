@@ -57,8 +57,7 @@ In this chapter there are two topics:
 **Addends:** In this part we see how to add several distributions and Central Limit Theorem with example is introduced. One more problem Titled _Gluten Sensitivity_ is solved.
 
 **Keywords:** _odds, likelihood ratio, addends_
----
-
+___
 ## Chapter 7: Minimum, Maximum and Mixture
 In this chapter the cumulative distribution function(cdf) is introduced. Also the interchangeability between pmf and cdf is also shown. Other topics such as choosing minimum, maximum or mixture of distributions to find the optimal results of inference.
 
