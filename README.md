@@ -49,6 +49,7 @@ In this chapter reader is posed with a problem titled: _The Train Problem_ . Thi
 All of these questions are answered in this chapter with the problem stated above. Also _The German Tank Problem_ is referred to alongside the aforementioned. 
 
 **Keywords:** _MMSE(Minimum Means Squared Error), Power Law Prior, Informative Prior, Uninformative Prior._
+___
 
 ## Chapter 6: Odds and Addends
 
