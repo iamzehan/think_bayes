@@ -5,7 +5,9 @@ A personal endeavor towards Bayesian Statistics.
 ⚠ If your are new to this kind of Statistics: ``It is advised to also use 'pen and paper' to keep track of the equations or some of them might make your head hurt.``
 
 This repository contains the study materials, personal remarks and experimental aspects of the book Titled: _**['Think Bayes - Bayesian Statistics in Python (2nd Edition)](https://allendowney.github.io/ThinkBayes2/index.html)'**_, written by Allen B. Downey.
+<p align="center"><img src="https://greenteapress.com/wp/wp-content/uploads/2021/04/think_bayes_2e_cover_medium.jpg"></p>
 ___
+
 
 ## Chapter 1: Probability
 Covers the basics of Probability with conjunctions, conditionals & laws of probability. The reader is taken through the Chapter with an Example Titled: 'Linda the Banker' involving the famous experiment by Tversky and Kahneman. The chapter takes on a single dataset and examines different aspects of it under different probabilistic theories.
