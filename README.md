@@ -65,6 +65,6 @@ In this chapter the cumulative distribution function(cdf) is introduced. Also th
 **Keywords:** _cdf, cumsum(), mixtures, minimum, maximum_
 ___
 
-<i> P.S. The demonstrations here are for documentation & educational purposes from a Reader's Perspective only. </i>
+<i> P.S.This is a documentation of a personal journey.</i>
 
 
