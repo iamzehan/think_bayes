@@ -6,6 +6,7 @@ A personal endeavor towards Bayesian Statistics.
 
 This repository contains the study materials, personal remarks and experimental aspects of the book Titled: _**['Think Bayes - Bayesian Statistics in Python (2nd Edition)](https://allendowney.github.io/ThinkBayes2/index.html)'**_, written by Allen B. Downey.
 <p align="center"><img src="https://greenteapress.com/wp/wp-content/uploads/2021/04/think_bayes_2e_cover_medium.jpg"></p>
+
 ___
 
 
