@@ -68,6 +68,11 @@ In this chapter the cumulative distribution function(cdf) is introduced. Also th
 **Keywords:** _cdf, cumsum(), mixtures, minimum, maximum_
 ___
 
+## Chapter 8: Poisson Processes
+This chapter introduces three new distributions: Poisson Distribution, Gamma Distribution and  Exponential Distribution. The reader is taken through all these distribution with a problem titled "The World Cup Problem" which is about soccer games in world cup and tries to figure out the proportions of winning and losing by applying different distributions.
+
+**Keywords:** _pdf, alpha, gamma(), lambda, poisson().
+
 <i> P.S.This is a documentation of a personal journey.</i>
 
 
